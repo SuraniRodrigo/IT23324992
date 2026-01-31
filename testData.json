@@ -1,0 +1,179 @@
+ [
+    {
+      "id": "Pos_Fun_0001",
+      "input": "Oyaa kaeevadha?",
+      "expected": "ඔයා කෑවද?"
+    },
+    {
+      "id": "Pos_Fun_0002",
+      "input": "mama baenkuvata yanavaa",
+      "expected": "මම බැන්කුවට යනවා"
+    },
+    {
+      "id": "Pos_Fun_0003",
+      "input": "othanin vadivenna!",
+      "expected": "ඔතනින් වඩිවෙන්න!"
+    },
+    {
+      "id": "Pos_Fun_0004",
+      "input": "mata adha aluth aedhumak ganna oonee.",
+      "expected": "මට අද අලුත් ඇදුමක් ගන්න ඕනේ."
+    },
+    {
+      "id": "Pos_Fun_0005",
+      "input": "karuNaakaralaa oyaagea nama methanin liyanna puluvandha?",
+      "expected": "කරුණාකරලා ඔයාගේ නම මෙතනින් ලියන්න පුලුවන්ද?"
+    },
+    {
+      "id": "Pos_Fun_0006",
+      "input": "2004 dhi aethi vu sunaami thaththvaya heathuven, sunaamiyen minis jiivitha 5000katath vadaa ahimi vunu athara dheepala saha idam haaniya iitath vadaa 5s guNayak viya. parisara dhuushanayadha ithaamath ihala mattamakata paevathi athara naevatha yathaa thaththvayata path kiriimata maasa 6k vath gatha vana bava evakata kaalaguna dhepaarthameanthuva prakaasha kaleeya.Ema nisaa sidhu vuu aapadhaamaya thaththvaya salakaa balaa rajaya visin saema pavulakatama Rs.25,000 baegin labaadhiimata thiiranaya karana ladhii.",
+      "expected": "2004 දි ඇති වු සුනාමි තත්ත්වය හේතුවෙන්, සුනාමියෙන් මිනිස් ජීවිත 5000කටත් වඩා අහිමි වුනු අතර දේපල සහ ඉඩම් හානිය ඊටත් වඩා 5ස් ගුණයක් විය. පරිසර දූශනයද ඉතාමත් ඉහල මට්ටමකට පැවති අතර නැවත යතා තත්ත්වයට පත් කිරීමට මාස 6ක් වත් ගත වන බව එවකට කාලගුන දෙපාර්තමේන්තුව ප්‍රකාශ කලේය.එම නිසා සිදු වූ ආපදාමය තත්ත්වය සලකා බලා රජය විසින් සැම පවුලකටම Rs.25,000 බැගින් ලබාදීමට තීරනය කරන ලදී."
+    },
+    {
+      "id": "Pos_Fun_0007",
+      "input": "dhaen thiyena situation ekata anuva nam apita kohomatavathma internship ekak hoyaganna leesi venne nae ee nisaa api LinkedIn eka ganath avadhaanayen inna onee thiyena job opportunities ekka, anith eka thamai apita dhan apply karoth pebaravaari vala vage internship ekak hari yannath puLuvan kiyala thamayi godak aya kivvee.",
+      "expected": "දැන් තියෙන situation එකට අනුව නම් අපිට කොහොමටවත්ම internship එකක් හොයගන්න ලේසි වෙන්නෙ නැ ඒ නිසා අපි LinkedIn එක ගනත් අවදානයෙන් ඉන්න ඔනේ තියෙන job opportunities එක්ක, අනිත් එක තමෛ අපිට දන් apply කරොත් පෙබරවාරි වල වගෙ internship එකක් හරි යන්නත් පුළුවන් කියල තමයි ගොඩක් අය කිව්වේ."
+    },
+    {
+      "id": "Pos_Fun_008",
+      "input": "ov ov, oyaa heta ennama oonea!",
+      "expected": "ඔව් ඔව්, ඔයා හෙට එන්නම ඕනේ!"
+    },
+    {
+      "id": "Pos_Fun_0009",
+      "input": "mama dhaen hadhissii vaedak passe kiyannam",
+      "expected": "මම දැන් හදිස්සී වැඩක් පස්සෙ කියන්නම්"
+    },
+    {
+      "id": "Pos_Fun_0010",
+      "input": "mata oyaagea nama SMS karanna.",
+      "expected": "මට ඔයාගේ නම SMS කරන්න."
+    },
+    {
+      "id": "Pos_Fun_0011",
+      "input": "oyaata   heta Rs.10000 genath dhenna puluvandha?",
+      "expected": "ඔයාට   හෙට Rs.10000 ගෙනත් දෙන්න පුලුවන්ද?"
+    },
+    {
+      "id": "Pos_Fun_0012",
+      "input": "ammatasiri, mama potha adhath amathaka velaa gedhara dhaalaa aavaa nea balapankoo, dhaen moko ban karanne?",
+      "expected": "අම්මටසිරි, මම පොත අදත් අමතක වෙලා ගෙදර දාලා ආවා නේ බලපන්කෝ, දැන් මොකො බන් කරන්නේ?"
+    },
+    {
+      "id": "Pos_Fun_0013",
+      "input": "Heta sellam karamu.",
+      "expected": "හෙට සෙල්ලම් කරමු."
+    },
+    {
+      "id": "Pos_Fun_0014",
+      "input": "Api mulin sellam karalaa passe kaalaama yamuu.",
+      "expected": "අපි මුලින් සෙල්ලම් කරලා පස්සෙ කාලාම යමූ."
+    },
+    {
+      "id": "Pos_Fun_0015",
+      "input": "karuNaakaralaa oyaa gihillaa dheveni pealiyen vaadi vennavadha?",
+      "expected": "කරුණාකරලා ඔයා ගිහිල්ලා දෙවෙනි පේලියෙන් වාඩි වෙන්නවද?"
+    },
+    {
+      "id": "Pos_Fun_0016",
+      "input": "mee ban, poddak ehaata veyan, matath ooka balanna oonee.",
+      "expected": "මේ බන්, පොඩ්ඩක් එහාට වෙයන්, මටත් ඕක බලන්න ඕනේ."
+    },
+    {
+      "id": "Pos_Fun_0017",
+      "input": "mama dhaen gamanak yanna laesthi velaa inne, passe call ekak dhennam, oyaata hadhissinam mata WhatsApp message ekak dhaalaa thiyanna.",
+      "expected": "මම දැන් ගමනක් යන්න ලැස්ති වෙලා ඉන්නේ, පස්සෙ call එකක් දෙන්නම්, ඔයාට හදිස්සිනම් මට WhatsApp message එකක් දාලා තියන්න."
+    },
+    {
+      "id": "Pos_Fun_0018",
+      "input": "mama adha gedhara yanakota poddak vithara late venavaa. ee nisaa,you will give a call like around 9 PM vage, ethakota puluvan apita puluvan karanna thiyena project eka gana discuss karalaa, adhaaLa parts tika bedhaagena confirm karaganna. peena vidiyata nam eeka poddak avul vagee. ee nisaa api adha idhalama podda podda katha karagena issarahata yamuu.",
+      "expected": "මම අද ගෙදර යනකොට පොඩ්ඩක් විතර late වෙනවා. ඒ නිසා,you will give a call like around 9 PM වගෙ, එතකොට පුලුවන් අපිට පුලුවන් කරන්න තියෙන project එක ගන discuss කරලා, අදාළ parts ටික බෙදාගෙන confirm කරගන්න. පේන විඩියට නම් ඒක පොඩ්ඩක් අවුල් වගේ. ඒ නිසා අපි අද ඉදලම පොඩ්ඩ පොඩ්ඩ කත කරගෙන ඉස්සරහට යමූ."
+    },
+    {
+      "id": "Pos_Fun_0019",
+      "input": "avulak naee, mama oyaata adha lecture ekea apahaedhili kotas tika kiyalaa dhennam.",
+      "expected": "අවුලක් නෑ, මම ඔයාට අද lecture එකේ අපහැදිලි කොටස් ටික කියලා දෙන්නම්."
+    },
+    {
+      "id": "Pos_Fun_0020",
+      "input": "mata aayeth puhuNuviim thiyenne 2026-02-24 agaharuvaadhaa.",
+      "expected": "මට ආයෙත් පුහුණුවීම් තියෙන්නෙ 2026-02-24 අගහරුවාදා."
+    },
+    {
+      "id": "Pos_Fun_0021",
+      "input": "oyaa yanavaanam mata anivaaren kiyalaa yanna!",
+      "expected": "ඔයා යනවානම් මට අනිවාරෙන් කියලා යන්න! "
+    },
+    {
+      "id": "Pos_Fun_0022",
+      "input": "oyaa ikmanata yanna naeththan parakku venavaa. ",
+      "expected": "ඔයා ඉක්මනට යන්න නැත්තන් පරක්කු වෙනවා"
+    },
+    {
+      "id": "Pos_Fun_0023",
+      "input": "saadharayen piligannavaa!",
+      "expected": "සාදරයෙන් පිලිගන්නවා!"
+    },
+    {
+      "id": "Pos_Fun_0024",
+      "input": "ogolloo pitipassata venna! naeththan paara avahira venavaa nedha?",
+      "expected": "ඔගොල්ලෝ පිටිපස්සට වෙන්න! නැත්තන් පාර අවහිර වෙනවා නේද?"
+    },
+    {
+      "id": "Pos_Fun_0025",
+      "input": "mata ATM eken salli vagayak ganna oonee ee nisaa mama dhaen bank ekata yanavaa.",
+      "expected": "මට ATM එකෙන් සල්ලි වගයක් ගන්න ඕනේ ඒ නිසා මම දැන් bank එකට යනවා."
+    },
+    {
+      "id": "Neg_Fun_0001",
+      "input": "mamanidhaagannayanavaa",
+      "expected": "මම නිදාගන්න යනවා"
+    },
+    {
+      "id": "Neg_Fun_0002",
+      "input": "mamanidhaagannayanavaa",
+      "expected": "මම නිදාගන්න යනවා"
+    },
+    {
+      "id": "Neg_Fun_0003",
+      "input": "mata    adha beheth ganna    yanna onee",
+      "expected": "මට අද බෙහෙත් ගන්න යන්න ඔනේ"
+    },
+    {
+      "id": "Neg_Fun_0004",
+      "input": "",
+      "expected": ""
+    },
+    {
+      "id": "Neg_Fun_0005",
+      "input": "",
+      "expected": ""
+    },
+    {
+      "id": "Neg_Fun_0006",
+      "input": "mamanidhaagannayanavaa",
+      "expected": "මම නිදාගන්න යනවා"
+    },
+    {
+      "id": "Neg_Fun_0007",
+      "input": "adoow patta athal vadak neee!",
+      "expected": "අඩෝ පට්ට ආතල් වැඩක් නේ!"
+    },
+    {
+      "id": "Neg_Fun_0008",
+      "input": "mamanidhaagannayanavaa",
+      "expected": "මම නිදාගන්න යනවා"
+    },
+    {
+      "id": "Neg_Fun_0009",
+      "input": "mama sidhuvk kiyanavaa.",
+      "expected": "මම සින්දුවක් කියනවා."
+    },
+    {
+      "id": "Neg_Fun_0010",
+      "input": "iiyaa, eeka harima kaethayinee oyage kondeta, I think it don`t suit.",
+      "expected": "ඊයා, ඒක හරිම කැතයිනේ ඔයගෙ කොන්ඩෙට, ඉ think it don`t suit."
+    }
+
+  ]
+
