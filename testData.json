@@ -131,38 +131,38 @@
     },
     {
       "id": "Neg_Fun_0002",
-      "input": "mamanidhaagannayanavaa",
-      "expected": "මම නිදාගන්න යනවා"
+      "input": "mageSkypevadanae",
+      "expected": "mage Skype වඩනැ"
     },
     {
       "id": "Neg_Fun_0003",
-      "input": "mata    adha beheth ganna    yanna onee",
-      "expected": "මට අද බෙහෙත් ගන්න යන්න ඔනේ"
+      "input": "mageGmaileka helloo@123",
+      "expected": "මගේ Gmail එක hello@123"
     },
     {
       "id": "Neg_Fun_0004",
-      "input": "",
-      "expected": ""
+      "input": "meeka check karanna https:abs123.lk",
+      "expected": "මේක check කරන්න https:abs123.lk"
     },
     {
       "id": "Neg_Fun_0005",
-      "input": "",
-      "expected": ""
+      "input": "mage number eka #45678",
+      "expected": "මගේ number එක #45678"
     },
     {
       "id": "Neg_Fun_0006",
-      "input": "mamanidhaagannayanavaa",
+      "input": "man heta oyage car eka ikmanata geniyala genath dennadha?",
       "expected": "මම නිදාගන්න යනවා"
     },
     {
       "id": "Neg_Fun_0007",
-      "input": "adoow patta athal vadak neee!",
+      "input": "adoooow patta athal vadak ne ekha!",
       "expected": "අඩෝ පට්ට ආතල් වැඩක් නේ!"
     },
     {
       "id": "Neg_Fun_0008",
-      "input": "mamanidhaagannayanavaa",
-      "expected": "මම නිදාගන්න යනවා"
+      "input": "2026/0210 4.00PM panthiyak  thin@va",
+      "expected": "2026/02/10 4.00PM පන්තියක්  තීනවා"
     },
     {
       "id": "Neg_Fun_0009",
@@ -171,9 +171,8 @@
     },
     {
       "id": "Neg_Fun_0010",
-      "input": "iiyaa, eeka harima kaethayinee oyage kondeta, I think it don`t suit.",
-      "expected": "ඊයා, ඒක හරිම කැතයිනේ ඔයගෙ කොන්ඩෙට, ඉ think it don`t suit."
+      "input": "iiyaa, eeka harima kaethayinee oyaata , I think it don`t suit.",
+      "expected": "ඊයා, ඒක හරිම කැතයිනේ ඔයාට , I think it don`t suit."
     }
-
   ]
 
